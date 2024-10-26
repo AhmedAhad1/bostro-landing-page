@@ -8,7 +8,7 @@ export const HeroSection = () => {
   return (
     <div className=" relative bg-cover bg-no-repeat bg-[url('bg.svg')]">
       <div className="flex flex-col space-y-20 h-screen max-w-screen-2xl mx-auto pt-[10vw] px-[4vw]">
-        <div className="flex justify-between">
+        <div className="flex justify-between lg:items-start items-center">
           <div className="md:pt-10">
             <TextView />
           </div>
