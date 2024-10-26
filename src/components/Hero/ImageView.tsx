@@ -14,6 +14,8 @@ export const ImageView = () => {
     nextArrow: <></>,
     prevArrow: <></>,
     autoplaySpeed: 2000,
+    swipe: false,
+    draggabe: false,
   };
   return (
     <div className="slider-container w-1/3">
