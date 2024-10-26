@@ -1,8 +1,8 @@
 ---
-import Hero from "../components/Hero.astro";
+import { HeroSection } from "../components/Hero/HeroSection";
 import Layout from "../layout/Layout.astro";
 ---
 
 <Layout>
-  <Hero />
+  <HeroSection client:only="react" />
 </Layout>

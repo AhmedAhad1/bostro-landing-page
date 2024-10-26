@@ -9,6 +9,7 @@ export default {
         },
         "bostro-pink": {
           10: "#EFAFBC",
+          15: "#fae7eb",
         },
       },
     },
