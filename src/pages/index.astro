@@ -1,8 +1,10 @@
 ---
 import { HeroSection } from "../components/Hero/HeroSection";
+import { Team } from "../components/Team/Team";
 import Layout from "../layout/Layout.astro";
 ---
 
 <Layout>
   <HeroSection client:only="react" />
+  <Team client:only="react" />
 </Layout>

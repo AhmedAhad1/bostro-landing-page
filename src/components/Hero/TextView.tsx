@@ -19,7 +19,7 @@ export const TextView = () => {
 
       <a
         href="#"
-        className="!mt-10 uppercase font-normal bg-white px-14 py-2 text-center text-bostro-blue-10 shadow-md shadow-bostro-blue-10 rounded-full drop-shadow-lg active:translate-y-1 transition-all duration-200 inline-flex items-center space-x-2 hover:shadow-bostro-pink-10 "
+        className="!mt-10 uppercase font-normal bg-white px-14 py-2 text-center text-bostro-blue-10 hover:text-bostro-pink-10 shadow-md shadow-bostro-blue-10 rounded-full drop-shadow-lg active:translate-y-1 transition-all duration-200 inline-flex items-center space-x-2 hover:shadow-bostro-pink-10 "
       >
         <span className="">Try now</span>
 
